@@ -26,7 +26,7 @@ const ListingPage: NextPage = () => {
 
   // Initialize the marketplace contract
   const marketplace = useMarketplace(
-    "0x2C83CDF7Bd9ED21e06732fd96c549b2785928149" // Your marketplace contract address here
+    "0xfDB752bEa2ab311e8cB3ED72F47D3a0Ce5FF069D" // Your marketplace contract address here
   );
 
   // Fetch the listing from the marketplace contract
